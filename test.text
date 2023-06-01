@@ -1,4 +1,5 @@
 Ajouter son travail sur GitHub
 - git add .
 - git commit -m 'exemple'
+- git push
 
